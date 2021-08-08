@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, Breno aqui =D
 
-<!--
-**srGuardia/srGuardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srGuardia&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=srGuardia&show_icons=true&theme=radical&layout=compact&langs_count=8" />
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <img src="#" alt="TS" />
+  <img src="#" alt="JS" />
+  <img src="#" alt="NOD" />
+  <img src="#" alt="ION" />
+  <img src="#" alt="ANG" />
+  <img src="#" alt="RN" />
+  <img src="#" alt="RJS" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
